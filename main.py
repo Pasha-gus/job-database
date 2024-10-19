@@ -1,7 +1,7 @@
-from src.database_creator import create_database, create_tables, insert_in_tables
-from src.head_hunter_api import HeadHunterAPI
 from src.config import config
+from src.database_creator import create_database, create_tables, insert_in_tables
 from src.DBManager import DBManager
+from src.head_hunter_api import HeadHunterAPI
 
 
 def main():
